@@ -1,0 +1,49 @@
+
+
+    body,html{
+        margin:auto; padding:auto;
+        background-color: #121212;
+        position: relative;
+        text-align: center;
+        padding-bottom: 13px;
+    }
+
+    hr {
+        color: white;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #map{
+        position: relative;
+        width: 90vw; height: 90vh;
+        margin-left: auto; margin-right: auto;
+        border-radius: 8px;
+    }
+
+    #main-header {
+        margin: 0; font-family: 'Times New Roman'; font-weight: normal; text-align: center;
+        background-color: rgba(0, 0, 0, 0.5); 
+        padding-top: 10px; padding-bottom: 1px; width: 100%; color: white; border-radius: 7px;
+    }
+
+    #form-bkg {
+        background-color: white;
+        position: relative;
+        width: 30vw;
+        margin-left: auto; margin-right: auto;
+        border-radius: 7.5px;
+        margin-bottom: 5px;
+    }
+
+    #form-input {
+        background-color: #FFFFFF;
+        border: 2px solid rgba(17, 16, 16, 0.4);
+        border-radius: 4px;
+        padding: 7px 15px;
+        height: auto;
+        text-align: center;
+        margin-bottom: 5px; margin-top: 5px; margin-right: 20px; margin-left: 10px;
+        vertical-align: -2px;
+    }
